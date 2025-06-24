@@ -1,35 +1,64 @@
-👋 Salut, moi c'est Hassan ES-SABBANI
-🎓 Je suis un développeur web Full Stack junior, passionné par la création de solutions web modernes, performantes et utiles.
-💻 J’ai récemment terminé une formation complète en développement web (Laravel, React, PostgreSQL), et je suis actuellement à la recherche d’un stage volontaire ou d’un premier poste junior pour renforcer mes compétences sur le terrain.
+<h1 align="center">👋 Hello, je suis Hassan ES-SABBANI</h1>
 
-🔧 Compétences techniques :
-Front-end : HTML, CSS, Bootstrap, JavaScript, React.js
+<p align="center">
+  <strong>Développeur Web Full Stack Junior</strong>  
+</p>
+<p align="center">
+  🌍 Fès, Maroc | 📬 essabbanihassan@email.com | 🔗 <a href="https://www.linkedin.com/in/hassansebbani/">LinkedIn</a>
+</p>
 
-Back-end : PHP, Laravel
+---
 
-Base de données : MySQL, PostgreSQL
+## 🚀 À propos de moi
 
-Outils : Git, GitHub, Postman, Figma, Docker, Linux (Bash)
+🎓 Je suis un jeune **développeur web full stack**, passionné par le développement de sites modernes et performants.  
+🎯 Je viens de terminer une formation en développement digital web (React, Laravel, PostgreSQL)  
+💡 Je suis à la recherche d’un **stage volontaire** ou d’un **premier poste junior** pour renforcer mes compétences et contribuer à des projets concrets.
 
-Méthodologies : SCRUM, UML, Wireframes
+---
 
-Cybersécurité (bases) : tests de vulnérabilités, Metasploit, Wireshark
+## 💼 Compétences Techniques
 
-🚀 Projets réalisés :
-🛒 Site e-commerce (React + Laravel + PostgreSQL)
+| Front-end     | Back-end       | Base de données   | Outils & Méthodologies      |
+|---------------|----------------|-------------------|-----------------------------|
+| HTML, CSS     | PHP, Laravel   | MySQL, PostgreSQL | Git, GitHub, Postman        |
+| Bootstrap     |                |                   | Figma, Docker, Linux (bash) |
+| JavaScript, React |            |                   | UML, SCRUM, Wireframes      |
 
-🚚 Plateforme de livraison (React + Redux + Bootstrap)
+---
 
-🏥 Système de gestion de pharmacie (PHP + MySQL)
+## 📂 Projets Réalisés
 
-🌱 Site de vente de pépinières
+- 🛍️ **Site e-Commerce** *(React, Laravel, PostgreSQL)*  
+- 🚚 **Plateforme de livraison** *(React, Redux, CSS)*  
+- 🏥 **Gestion de pharmacie** *(PHP, MySQL, Bootstrap)*  
+- 🌿 **Site de pépinières** *(HTML, CSS, JS)*  
+- 🌐 **Portfolio personnel** *(HTML, CSS, JavaScript)*
 
-💼 Portfolio personnel
+---
 
-📫 Contact :
-💼 LinkedIn
+## 🔐 Formation & Cybersécurité
 
-📧 Email : essabbanihassan@gmail.com
+🎓 **Formation en développement Full Stack** – Cités des Métiers & Compétences  
+🛡️ Formation complémentaire en cybersécurité :  
+- Tests de pénétration, audit, vulnérabilités  
+- Outils : Metasploit, Nmap, Wireshark, BurpSuite  
+- Linux scripting, bases en Java
+
+---
+
+## 📫 Me contacter
+
+- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/hassansebbani)
+- GitHub : [github.com/ton-profil](https://github.com/HASSAN-DEVFS)
+- Email : [ton.email@gmail.com](mailto:essabbanihassan@gmail.com)
+
+---
+
+<p align="center">
+  Merci de visiter mon profil 👨‍💻  
+</p>
+
 
 
 ### ⚡ **Fun fact** :
