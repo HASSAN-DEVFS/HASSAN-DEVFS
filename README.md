@@ -22,7 +22,7 @@
 | Front-end     | Back-end       | Base de données   | Outils & Méthodologies      |
 |---------------|----------------|-------------------|-----------------------------|
 | HTML, CSS     | PHP, Laravel   | MySQL, PostgreSQL | Git, GitHub, Postman        |
-| Bootstrap     |                |                   | Figma, Docker, Linux (bash) |
+| Bootstrap     |                | Mongodb           | Figma, Docker, Linux (bash) |
 | JavaScript, React |            |                   | UML, SCRUM, Wireframes      |
 
 ---
