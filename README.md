@@ -49,9 +49,9 @@
 
 ## 📫 Me contacter
 
-- LinkedIn : [linkedin.com/in/ton-profil](https://linkedin.com/in/hassansebbani)
-- GitHub : [github.com/ton-profil](https://github.com/HASSAN-DEVFS)
-- Email : [ton.email@gmail.com](mailto:essabbanihassan@gmail.com)
+- LinkedIn : [linkedin.com/in/hassansebbani](https://linkedin.com/in/hassansebbani)
+- GitHub : [github.com/HASSAN-DEVFS](https://github.com/HASSAN-DEVFS)
+- Email : [essabbanihassan@gmail.com](mailto:essabbanihassan@gmail.com)
 
 ---
 
